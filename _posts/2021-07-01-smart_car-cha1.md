@@ -1,11 +1,11 @@
 ---
-title:  "청소년을 위한 스마트 자동차 교실"
+title:  "청소년을 위한 차세대 자동차"
 excerpt: "2020/2021년에 작성된 초중생들의 위한 스마트 자동차 교실 교재의 확장 및 관련 내용 정리 1"
 
 categories:
-  - AI, Smart Car
+  - [AI, Smart Car]
 tags:
-  - [Blog, MisunRyu, Github, Git]
+  - [Blog, Works]
 
 toc: true
 toc_sticky: true
@@ -15,6 +15,7 @@ last_modified_at: 2022-03-28
 ---
 # 1. 미래 자동차 알아보기
 ## 1-1. 이동 수단 어떻게 발전 했을까?
+<iframe width="956" height="538" src="https://www.youtube.com/embed/qjbPuLl1ci4&t=7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 1-2. 미래의 이동 수단은 어떤 모습일까?
 
