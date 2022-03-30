@@ -15,7 +15,7 @@ last_modified_at: 2022-03-28
 ---
 # 1. 미래 자동차 알아보기
 ## 1-1. 이동 수단 어떻게 발전 했을까?
-{% include video id="qjbPuLl1ci4&t" provider="youtube" %}
+<iframe width="956" height="538" src="https://youtu.be/qjbPuLl1ci4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 1-2. 미래의 이동 수단은 어떤 모습일까?
 
