@@ -3,7 +3,7 @@ title:  "청소년을 위한 차세대 자동차"
 excerpt: "2020/2021년에 작성된 초중생들의 위한 스마트 자동차 교실 교재의 확장 및 관련 내용 정리 1"
 
 categories:
-  - [Blog]
+  - Blog
 tags:
   - [Blog, Works]
 
