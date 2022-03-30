@@ -16,8 +16,8 @@ last_modified_at: 2022-03-28
 # 1. 미래 자동차 알아보기
 ## 1-1. 이동 수단 어떻게 발전 했을까?
 
+[!["자동차의 역사"](https://MisunRyu.github.io/assets/images/smart_car/1-0.png "자동차의 역사"){: .align-center}](https://youtu.be/qjbPuLl1ci4?t=7)
 
-<iframe width="702" height="395" src="https://www.youtube.com/embed/qjbPuLl1ci4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## 1-2. 미래의 이동 수단은 어떤 모습일까?
 
 # 2. 차세대 핵심 기술
